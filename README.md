@@ -1,2 +1,4 @@
 # btnx
-Small BitTorrent client written in Elixir
+> *Small BitTorrent client written in Elixir*
+
+### 
